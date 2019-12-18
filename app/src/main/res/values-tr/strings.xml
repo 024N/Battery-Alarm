@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Şarj Alarmı</string>
+    <string name="biggerr">Şarj doluysa</string>
+    <string name="smallerr">Şarjı düşükse</string>
+
+    <string name="voicee">Sesli Alarm</string>
+    <string name="vibratee">Titreşim Alarmı</string>
+    <string name="closee">Kapat</string>
+
+    <string name="bateryFull">Şarj Etme Tamamlandı!</string>
+    <string name="bateryFullMessage">Lütfen fişini çekin!</string>
+
+    <string name="bateryLow">Şarj Etme Düşük!</string>
+    <string name="bateryLowMessage">Lütfen fişe takın!</string>
+
+    <string name="alarm">Lütfen alarm türünü seçin!</string>
+
+    <string name="fullcontrol">Şarj Kontrolü (Dolu)</string>
+    <string name="lowcontrol">Şarj Kontrolü (Düşük)</string>
+    <string name="alarmcontrol">Alarm Türü</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Charging Alarm</string>
+    <string name="biggerr">If charging is full</string>
+    <string name="smallerr">If charging is low</string>
+
+    <string name="voicee">Sound Alarm</string>
+    <string name="vibratee">Vibration Alarm</string>
+    <string name="closee">Close</string>
+
+    <string name="bateryFull">Charging is Full!</string>
+    <string name="bateryFullMessage">Please unplug!</string>
+
+    <string name="bateryLow">Charging is Low!</string>
+    <string name="bateryLowMessage">Please plug in!</string>
+
+    <string name="alarm">Please select the alarm type!</string>
+
+    <string name="fullcontrol">Charging Control(Full)</string>
+    <string name="lowcontrol">Charging Control(Low)</string>
+    <string name="alarmcontrol">Alarm Type</string>
+</resources>

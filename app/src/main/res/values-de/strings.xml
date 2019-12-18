@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ladealarm</string>
+    <string name="biggerr">Wenn der Ladevorgang voll ist</string>
+    <string name="smallerr">Wenn der Ladevorgang niedrig ist</string>
+
+    <string name="voicee">Tonalarm</string>
+    <string name="vibratee">Vibrationsalarm</string>
+    <string name="closee">Schließen</string>
+
+    <string name="bateryFull">Laden ist voll!</string>
+    <string name="bateryFullMessage">Bitte den Stecker ziehen!</string>
+
+    <string name="bateryLow">Laden ist niedrig!</string>
+    <string name="bateryLowMessage">Bitte einstecken!</string>
+
+    <string name="alarm">Bitte wählen Sie den Alarmtyp aus!</string>
+
+    <string name="fullcontrol">Ladesteuerung (voll)</string>
+    <string name="lowcontrol">Ladesteuerung (niedrig)</string>
+    <string name="alarmcontrol">Alarmtyp</string>
+</resources>

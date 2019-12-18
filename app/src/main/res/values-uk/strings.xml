@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Зарядний будильник</string>
+    <string name="biggerr">Якщо заряджання заповнено</string>
+    <string name="smallerr">Якщо заряджання низьке</string>
+
+    <string name="voicee">Звукова сигналізація</string>
+    <string name="vibratee">Вібраційна сигналізація</string>
+    <string name="closee">Закрити</string>
+
+    <string name="bateryFull">Зарядка повна!</string>
+    <string name="bateryFullMessage">Будь ласка, відключіть!</string>
+
+    <string name="bateryLow">Зарядка низька!</string>
+    <string name="bateryLowMessage">Будь ласка, підключіть!</string>
+
+    <string name="alarm">Будь ласка, виберіть тип сигналу!</string>
+
+    <string name="fullcontrol">Зарядний контроль (повний)</string>
+    <string name="lowcontrol">Зарядний контроль (низький)</string>
+    <string name="alarmcontrol">Тип сигналізації</string>
+</resources>

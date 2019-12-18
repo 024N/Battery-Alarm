@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">अलार्म चार्ज करना</string>
+    <string name="biggerr">यदि चार्ज भरा हुआ है</string>
+    <string name="smallerr">अगर चार्ज कम है</string>
+
+    <string name="voicee">ध्वनि अलार्म</string>
+    <string name="vibratee">कंपन अलार्म</string>
+    <string name="closee">बंद करे</string>
+
+    <string name="bateryFull">चार्जिंग पूर्ण है!</string>
+    <string name="bateryFullMessage">कृपया अनप्लग करें!</string>
+
+    <string name="bateryLow">चार्जिंग कम है!</string>
+    <string name="bateryLowMessage">कृपया प्लग इन करें!</string>
+
+    <string name="alarm">कृपया अलार्म प्रकार का चयन करें!</string>
+
+    <string name="fullcontrol">चार्जिंग कंट्रोल (पूर्ण)</string>
+    <string name="lowcontrol">नियंत्रण चार्ज (कम)</string>
+    <string name="alarmcontrol">अलार्म प्रकार</string>
+</resources>

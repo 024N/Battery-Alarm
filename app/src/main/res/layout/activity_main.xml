@@ -1,0 +1,163 @@
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7d4d4"
+    tools:context=".MainActivity"
+    android:id="@+id/theLayout">
+
+    <TextView
+        android:id="@+id/batteryFull"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/fullcontrol"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/full_Bar_Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_below="@+id/batteryFull"
+        android:layout_marginTop="20dp"
+        android:layout_toEndOf="@+id/switch_Full"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/switch_Full"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/full_Bar_Text"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textStyle="bold"
+        android:thumbTint="@android:color/holo_blue_dark" />
+
+    <SeekBar
+        android:id="@+id/full_Bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/full_Bar_Text"
+        android:layout_marginTop="20dp"
+        android:max="100"
+        android:progressTint="@android:color/holo_blue_dark"
+        android:thumbTint="@android:color/holo_blue_dark" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_below="@+id/full_Bar"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/batteryLow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/view3"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="@string/lowcontrol" />
+
+    <TextView
+        android:id="@+id/low_Bar_Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_below="@+id/batteryLow"
+        android:layout_marginTop="20dp"
+        android:layout_toEndOf="@+id/switch_Low"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/switch_Low"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/low_Bar_Text"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textStyle="bold"
+        android:thumbTint="@android:color/holo_blue_dark" />
+
+    <SeekBar
+        android:id="@+id/low_Bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/low_Bar_Text"
+        android:layout_marginTop="20dp"
+        android:max="100"
+        android:progressTint="@android:color/holo_blue_dark"
+        android:thumbTint="@android:color/holo_blue_dark" />
+
+    <View
+        android:id="@+id/view4"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_below="@+id/low_Bar"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/alertType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/view4"
+        android:layout_marginTop="20dp"
+        android:text="@string/alarmcontrol"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/alert_Voice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/alertType"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textStyle="bold"
+        android:thumbTint="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:id="@+id/soundText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/alert_Voice"
+        android:layout_alignBottom="@+id/alert_Voice"
+        android:layout_alignParentEnd="true"
+        android:textSize="15dp"
+        android:layout_toEndOf="@+id/alert_Voice"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/alert_Vibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/alert_Voice"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textStyle="bold"
+        android:thumbTint="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:id="@+id/vibrateText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/alert_Vibrate"
+        android:layout_alignBottom="@+id/alert_Vibrate"
+        android:layout_alignParentEnd="true"
+        android:textSize="15dp"
+        android:layout_toEndOf="@+id/alert_Vibrate"
+        android:textStyle="bold" />
+
+</RelativeLayout>

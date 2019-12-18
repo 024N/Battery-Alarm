@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alarm Pengisian</string>
+    <string name="biggerr">Jika pengisian penuh</string>
+    <string name="smallerr">Jika pengisian daya rendah</string>
+
+    <string name="voicee">Alarm Suara</string>
+    <string name="vibratee">Alarm Getar</string>
+    <string name="closee">Dekat</string>
+
+    <string name="bateryFull">Pengisian Penuh!</string>
+    <string name="bateryFullMessage">Silakan lepaskan!</string>
+
+    <string name="bateryLow">Pengisiannya rendah!</string>
+    <string name="bateryLowMessage">Silahkan pasang</string>
+
+    <string name="alarm">Silahkan pilih tipe alarmnya!</string>
+
+    <string name="fullcontrol">Kontrol Pengisian (Kendali)</string>
+    <string name="lowcontrol">Kontrol Pengisian (Rendah)</string>
+    <string name="alarmcontrol">Tipe alarm</string>
+</resources>

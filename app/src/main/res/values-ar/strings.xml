@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">شحن إنذار</string>
+    <string name="biggerr">إذا كان الشحن ممتلئا</string>
+    <string name="smallerr">إذا كان الشحن منخفضا</string>
+
+    <string name="voicee">إنذار الصوت</string>
+    <string name="vibratee">إنذار الاهتزاز</string>
+    <string name="closee">قريب</string>
+
+    <string name="bateryFull">شحن كامل!</string>
+    <string name="bateryFullMessage">يرجى فصل!</string>
+
+    <string name="bateryLow">شحن منخفض!</string>
+    <string name="bateryLowMessage">يرجى سد العجز!</string>
+
+    <string name="alarm">يرجى تحديد نوع التنبيه!</string>
+
+    <string name="fullcontrol">التحكم في الشحن (كامل)</string>
+    <string name="lowcontrol">التحكم في الشحن (منخفض)</string>
+    <string name="alarmcontrol">نوع التنبيه</string>
+</resources>

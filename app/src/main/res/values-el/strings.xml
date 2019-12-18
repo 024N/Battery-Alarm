@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Φόρτιση συναγερμού</string>
+    <string name="biggerr">Εάν η φόρτιση είναι πλήρης</string>
+    <string name="smallerr">Αν η φόρτιση είναι χαμηλή</string>
+
+    <string name="voicee">Ήχος συναγερμού</string>
+    <string name="vibratee">Συναγερμός κραδασμών</string>
+    <string name="closee">Κοντά</string>
+
+    <string name="bateryFull">Η χρέωση είναι πλήρης!</string>
+    <string name="bateryFullMessage">Παρακαλώ αποσυνδέστε!</string>
+
+    <string name="bateryLow">Η φόρτιση είναι χαμηλή!</string>
+    <string name="bateryLowMessage">Παρακαλούμε συνδεθείτε!</string>
+
+    <string name="alarm">Επιλέξτε τον τύπο συναγερμού!</string>
+
+    <string name="fullcontrol">Έλεγχος φόρτισης (πλήρης)</string>
+    <string name="lowcontrol">Έλεγχος φόρτισης (χαμηλό)</string>
+    <string name="alarmcontrol">Τύπος συναγερμού</string>
+</resources>

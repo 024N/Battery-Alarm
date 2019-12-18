@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">การชาร์จไฟปลุก</string>
+    <string name="biggerr">หากการชาร์จเต็ม</string>
+    <string name="smallerr">หากชาร์จไฟอยู่ในระดับต่ำ</string>
+
+    <string name="voicee">สัญญาณเตือนภัยด้วยเสียง</string>
+    <string name="vibratee">สัญญาณเตือนการสั่นสะเทือน</string>
+    <string name="closee">ปิด</string>
+
+    <string name="bateryFull">การชาร์จเต็มแล้ว!</string>
+    <string name="bateryFullMessage">กรุณาถอดปลั๊ก!</string>
+
+    <string name="bateryLow">การชาร์จไฟอยู่ในระดับต่ำ!</string>
+    <string name="bateryLowMessage">โปรดเสียบเข้า!</string>
+
+    <string name="alarm">โปรดเลือกประเภทการเตือนภัย!</string>
+
+    <string name="fullcontrol">การควบคุมการชาร์จไฟ (เต็ม)</string>
+    <string name="lowcontrol">การควบคุมการชาร์จไฟ (ต่ำ)</string>
+    <string name="alarmcontrol">ประเภทสัญญาณเตือน</string>
+</resources>

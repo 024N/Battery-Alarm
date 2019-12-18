@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">充电报警</string>
+    <string name="biggerr">如果充电已满</string>
+    <string name="smallerr">如果充电量低</string>
+
+    <string name="voicee">声音报警</string>
+    <string name="vibratee">振动报警</string>
+    <string name="closee">关</string>
+
+    <string name="bateryFull">充电已满！</string>
+    <string name="bateryFullMessage">请拔下！</string>
+
+    <string name="bateryLow">充电低！</string>
+    <string name="bateryLowMessage">请插入！</string>
+
+    <string name="alarm">请选择报警类型！</string>
+
+    <string name="fullcontrol">充电控制（完整）</string>
+    <string name="lowcontrol">充电控制（低）</string>
+    <string name="alarmcontrol">报警类型</string>
+</resources>

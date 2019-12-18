@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">充電アラーム</string>
+    <string name="biggerr">充電が満杯の場合</string>
+    <string name="smallerr">充電が少ない場合</string>
+
+    <string name="voicee">サウンドアラーム</string>
+    <string name="vibratee">振動アラーム</string>
+    <string name="closee">閉じる</string>
+
+    <string name="bateryFull">充電がいっぱいです！</string>
+    <string name="bateryFullMessage">プラグを抜いてください！</string>
+
+    <string name="bateryLow">充電が低い！</string>
+    <string name="bateryLowMessage">プラグインしてください！</string>
+
+    <string name="alarm">アラームの種類を選択してください！</string>
+
+    <string name="fullcontrol">充電制御（フル）</string>
+    <string name="lowcontrol">充電制御（低）</string>
+    <string name="alarmcontrol">アラームタイプ</string>
+</resources>

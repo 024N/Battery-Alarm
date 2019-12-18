@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Báo sạc</string>
+    <string name="biggerr">Nếu sạc đầy</string>
+    <string name="smallerr">Nếu sạc thấp</string>
+
+    <string name="voicee">Báo động âm thanh</string>
+    <string name="vibratee">Báo động rung</string>
+    <string name="closee">Gần</string>
+
+    <string name="bateryFull">Sạc đầy!</string>
+    <string name="bateryFullMessage">Vui lòng rút phích cắm điện!</string>
+
+    <string name="bateryLow">Sạc là thấp!</string>
+    <string name="bateryLowMessage">Vui lòng cắm!</string>
+
+    <string name="alarm">Vui lòng chọn kiểu báo thức!</string>
+
+    <string name="fullcontrol">Kiểm soát sạc (toàn bộ)</string>
+    <string name="lowcontrol">Kiểm soát sạc (Thấp)</string>
+    <string name="alarmcontrol">Loại báo thức</string>
+</resources>

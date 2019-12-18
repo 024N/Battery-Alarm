@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Laddningsalarm</string>
+    <string name="biggerr">Om laddningen är full</string>
+    <string name="smallerr">Om laddningen är låg</string>
+
+    <string name="voicee">Ljudlarm</string>
+    <string name="vibratee">Vibrationslarm</string>
+    <string name="closee">Stänga</string>
+
+    <string name="bateryFull">Laddning är full!</string>
+    <string name="bateryFullMessage">Vänligen dra ur kontakten!</string>
+
+    <string name="bateryLow">Laddning är låg!</string>
+    <string name="bateryLowMessage">Vänligen plugga in!</string>
+
+    <string name="alarm">Var god välj alarmtyp!</string>
+
+    <string name="fullcontrol">Laddningskontroll (Full)</string>
+    <string name="lowcontrol">Laddningskontroll (låg)</string>
+    <string name="alarmcontrol">Larmtyp</string>
+</resources>

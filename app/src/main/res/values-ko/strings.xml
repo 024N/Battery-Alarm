@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">충전 경고</string>
+    <string name="biggerr">충전이 가득 찬 경우</string>
+    <string name="smallerr">충전량이 적을 경우</string>
+
+    <string name="voicee">소리 알람</string>
+    <string name="vibratee">진동 알람</string>
+    <string name="closee">닫기</string>
+
+    <string name="bateryFull">충전이 가득!</string>
+    <string name="bateryFullMessage">플러그를 뽑으십시오!</string>
+
+    <string name="bateryLow">충전이 낮습니다!</string>
+    <string name="bateryLowMessage">플러그를 꽂아주세요!</string>
+
+    <string name="alarm">알람 유형을 선택하십시오!</string>
+
+    <string name="fullcontrol">충전 제어 (Full)</string>
+    <string name="lowcontrol">충전 제어 (저)</string>
+    <string name="alarmcontrol">알람 유형</string>
+</resources>
